@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InternetnyaPepi</string>
+    <string-array name="name">
+    <item>http://</item>
+    <item>https://</item>
+    </string-array>
+</resources>
